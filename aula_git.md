@@ -20,3 +20,5 @@ Para criar um registro do projeto use:
 ````bash
     $git commit -m "comnetario"
 ````
+
+>Kassio S. Silva
