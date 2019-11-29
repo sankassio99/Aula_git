@@ -9,3 +9,14 @@ Para insatalar o git use:
 ````bash
     $apt-get install git
 ````    
+
+Para adcionar aquivos a serem monitorados use:
+
+````
+$git add
+````
+
+Para criar um registro do projeto use:
+````bash
+    $git commit -m "comnetario"
+````
